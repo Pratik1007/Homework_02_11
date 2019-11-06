@@ -1,0 +1,51 @@
+2019-11-05 20:11:394 INFO  BrowserSelector :54 - Click On Computers Link
+2019-11-05 20:11:170 INFO  BrowserSelector :54 - Click On Computers Link
+2019-11-05 20:11:14 INFO  BrowserSelector :54 - Click On Computers Link
+2019-11-05 20:11:40 INFO  BrowserSelector :61 - Clcik On Electronics Link
+2019-11-05 20:11:303 INFO  BrowserSelector :69 - Click On Apparel Link
+2019-11-05 20:11:327 INFO  BrowserSelector :85 - Click On Books Link
+2019-11-05 20:11:888 INFO  BrowserSelector :93 - Click On Jewelry Link
+2019-11-05 20:11:741 INFO  BrowserSelector :101 - Click On GiftCards Link
+2019-11-05 20:11:237 INFO  BrowserSelector :38 - Clcik On Register Link
+2019-11-05 20:11:344 INFO  RegisterPage :41 - Click on Gender
+2019-11-05 20:11:440 INFO  RegisterPage :46 - Enter Firstname
+2019-11-05 20:11:540 INFO  RegisterPage :51 - Enter Lastname
+2019-11-05 20:11:615 INFO  RegisterPage :56 - Enter Day of Birth
+2019-11-05 20:11:701 INFO  RegisterPage :61 - Enter Month of Birth
+2019-11-05 20:11:788 INFO  RegisterPage :66 - Enter Year of Birth
+2019-11-05 20:11:42 INFO  RegisterPage :71 - Enter Email
+2019-11-05 20:11:298 INFO  RegisterPage :76 - Enter Company Name
+2019-11-05 20:11:420 INFO  RegisterPage :81 - Enter Password
+2019-11-05 20:11:501 INFO  RegisterPage :81 - Enter Password
+2019-11-05 20:11:598 INFO  RegisterPage :91 - Click On Register Link
+2019-11-05 21:11:388 INFO  BrowserSelector :38 - Clcik On Register Link
+2019-11-05 21:11:500 INFO  RegisterPage :41 - Click on Gender
+2019-11-05 21:11:610 INFO  RegisterPage :46 - Enter Firstname
+2019-11-05 21:11:749 INFO  RegisterPage :51 - Enter Lastname
+2019-11-05 21:11:828 INFO  RegisterPage :56 - Enter Day of Birth
+2019-11-05 21:11:910 INFO  RegisterPage :61 - Enter Month of Birth
+2019-11-05 21:11:995 INFO  RegisterPage :66 - Enter Year of Birth
+2019-11-05 21:11:235 INFO  RegisterPage :71 - Enter Email
+2019-11-05 21:11:498 INFO  RegisterPage :76 - Enter Company Name
+2019-11-05 21:11:607 INFO  RegisterPage :81 - Enter Password
+2019-11-05 21:11:666 INFO  RegisterPage :81 - Enter Password
+2019-11-05 21:11:763 INFO  RegisterPage :91 - Click On Register Link
+2019-11-05 21:11:639 INFO  BrowserSelector :38 - Clcik On Register Link
+2019-11-05 21:11:721 INFO  RegisterPage :41 - Click on Gender
+2019-11-05 21:11:853 INFO  RegisterPage :46 - Enter Firstname
+2019-11-05 21:11:956 INFO  RegisterPage :51 - Enter Lastname
+2019-11-05 21:11:36 INFO  RegisterPage :56 - Enter Day of Birth
+2019-11-05 21:11:118 INFO  RegisterPage :61 - Enter Month of Birth
+2019-11-05 21:11:201 INFO  RegisterPage :66 - Enter Year of Birth
+2019-11-05 21:11:446 INFO  RegisterPage :71 - Enter Email
+2019-11-05 21:11:679 INFO  RegisterPage :76 - Enter Company Name
+2019-11-05 21:11:776 INFO  RegisterPage :81 - Enter Password
+2019-11-05 21:11:906 INFO  RegisterPage :86 - Enter Password To Confirm Password
+2019-11-05 21:11:429 INFO  RegisterPage :91 - Click On Register Link
+2019-11-05 21:11:387 INFO  BrowserSelector :54 - Click On Computers Link
+2019-11-05 21:11:169 INFO  BrowserSelector :61 - Clcik On Electronics Link
+2019-11-05 21:11:887 INFO  BrowserSelector :69 - Click On Apparel Link
+2019-11-05 21:11:857 INFO  BrowserSelector :77 - Click On Digital Downloads Link
+2019-11-05 21:11:852 INFO  BrowserSelector :85 - Click On Books Link
+2019-11-05 21:11:360 INFO  BrowserSelector :93 - Click On Jewelry Link
+2019-11-05 21:11:782 INFO  BrowserSelector :101 - Click On GiftCards Link

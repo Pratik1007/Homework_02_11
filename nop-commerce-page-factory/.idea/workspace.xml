@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63f01480-0b93-4d94-8750-32e1d89ade40" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SpvmvZnamKA0OLYRrd6LRieZKk" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/resources/propertiesfile" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MISARI\IdeaProjects\nop-commerce-page-factory\src\test\java\resources\propertiesfile" />
+      <recent name="C:\Users\MISARI\IdeaProjects\nop-commerce-page-factory\src\test\java" />
+      <recent name="C:\Users\MISARI\IdeaProjects\nop-commerce-page-factory\src\main\java\com\nocommerce\demo" />
+      <recent name="C:\Users\MISARI\IdeaProjects\nop-commerce-page-factory\src\test\java\testsuit" />
+      <recent name="C:\Users\MISARI\IdeaProjects\nop-commerce-page-factory\src\test\java\hw-26-10-nop-commerce-page-factory-project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MISARI\IdeaProjects\nop-commerce-page-factory\src\test\java\resources\xmlfiles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest.userShouldNavigateToLoginPageSuccessfully">
+    <configuration name="C:/Users/MISARI/IdeaProjects/nop-commerce-page-factory/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nop-commerce-page-factory" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MISARI/IdeaProjects/nop-commerce-page-factory/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nop-commerce-page-factory" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.userShouldNavigateToLoginPageSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nop-commerce-page-factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="userShouldNavigateToLoginPageSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NopCommerce.userShouldLoginSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nop-commerce-page-factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.NopCommerce" />
+      <option name="METHOD_NAME" value="userShouldLoginSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest.userShouldRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nop-commerce-page-factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.RegistrationTest" />
+      <option name="METHOD_NAME" value="userShouldRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.userShouldNavigateToLoginPageSuccessfully" />
+        <item itemvalue="TestNG.RegistrationTest.userShouldRegisterSuccessfully" />
+        <item itemvalue="TestNG.C:/Users/MISARI/IdeaProjects/nop-commerce-page-factory/regression.xml" />
+        <item itemvalue="TestNG.C:/Users/MISARI/IdeaProjects/nop-commerce-page-factory/testng.xml" />
+        <item itemvalue="TestNG.NopCommerce.userShouldLoginSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63f01480-0b93-4d94-8750-32e1d89ade40" name="Default Changelist" comment="" />
+      <created>1572273513952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572273513952</updated>
+    </task>
+    <servers />
+  </component>
+</project>
